@@ -12,8 +12,8 @@ public class ShiXian {
 
 }
 interface Inter
-{
-	public static final int num=3;
+{     
+	public  final int num=3;
 	public abstract void show();
 	}
 class SubInter implements Inter
